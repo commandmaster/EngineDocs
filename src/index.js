@@ -1,10 +1,9 @@
 
-// Project Title
-// Your Name
-// Date
+// MiniGames - Interative Scene Assignment
+// Bennett Friesen
+// 2/29/2024
 //
-// Extra for Experts:
-// - describe what you did to take this project "above and beyond"
+
 
 
 let sketch;
